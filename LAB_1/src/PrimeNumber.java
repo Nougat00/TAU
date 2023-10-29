@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class PrimeNumber {
     public boolean isPrime(int number) {
         if (number <= 1) {
             return false;
